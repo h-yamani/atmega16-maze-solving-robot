@@ -1,7 +1,7 @@
 # ATmega16 Maze-Solving Robot
 
 <p align="center">
-  <img src="assets/robot.png" alt="ATmega16 autonomous maze-solving robot" width="760">
+  <img src="assets/labyrinth-robot-header-checkerboard.png" alt="ATmega16 autonomous maze-solving robot" width="760">
 </p>
 
 <p align="center">
@@ -18,6 +18,11 @@
 This repository preserves and documents an autonomous maze-solving robot developed as a bachelor-level embedded systems project. The robot uses an **ATmega16 microcontroller**, directional obstacle sensors, floor/path sensors, stepper-motor drive, and an LCD status display.
 
 The firmware maintains the robot's grid position and heading, records the status of neighbouring cells, rejects blocked or out-of-bound moves, prioritises unexplored paths, and continues navigating until it reaches a configured goal.
+
+## Robot
+<p align="center">
+  <img src="assets/robot.png" alt="ATmega16 autonomous maze-solving robot" width="760">
+</p>
 
 ## Key Features
 
