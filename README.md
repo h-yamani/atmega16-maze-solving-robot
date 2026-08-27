@@ -1,7 +1,7 @@
 # ATmega16 Maze-Solving Robot
 
 <p align="center">
-  <img src="assets/labyrinth-robot-header-checkerboard.png" alt="ATmega16 autonomous maze-solving robot" width="760">
+  <img src="assets/labyrinth-robot-header-checkerboard.png" >
 </p>
 
 <p align="center">
